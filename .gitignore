@@ -6,3 +6,6 @@
 /CompanyManagement/bin/Debug
 /CompanyManagement/obj/Debug
 /packages/EntityFramework.6.2.0
+/CompanyManagementTests/bin/Debug
+/CompanyManagementTests/obj/Debug
+/packages

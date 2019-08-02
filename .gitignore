@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CompanyManagement/v15
+/CompanyManagement/bin/Debug
+/CompanyManagement/obj/Debug
+/packages/EntityFramework.6.2.0
